@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+}
+#title{
+    padding: 10px;
+    border: 2px solid teal;
+    width: 20vw;
+    color: white;
+
+    background-color: teal;
+}
